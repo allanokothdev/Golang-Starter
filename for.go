@@ -1,8 +1,8 @@
-package for
+package forFxn
 
 import "fmt"
 
-func for() {
+func forFxn() {
 
 	// We declare and initialize i with 1
 	i := 1

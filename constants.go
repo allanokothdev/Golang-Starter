@@ -1,4 +1,4 @@
-package constants
+package constantFxn
 
 import (
 	"fmt"
@@ -8,7 +8,7 @@ import (
 // CONST declares a constant value
 const s string = "constant"
 
-func constants() {
+func constantFxn() {
 	fmt.Println(s)
 
 	const n = 50000000
